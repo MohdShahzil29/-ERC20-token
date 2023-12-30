@@ -19,13 +19,13 @@ The ERC-20 token, implemented in Solidity, includes standard functionalities suc
 # Interacting with the Contract
 Once deployed, interact with the contract using the Remix interface.
 Call functions like mint, burn, and transfer to test various functionalities.
+
 # Help
-If you encounter any issues or have questions:
+if you have any issue you can contact to me on my social media handel. you can get the social media handel on my github Homepage
 
-Check the Remix documentation: Remix Documentation
-Open an issue in this GitHub repository.
-
-Authors
+# Author 
 Mohd Shahzil
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+# License 
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
