@@ -8,3 +8,27 @@ This project demonstrates the creation and deployment of a basic ERC-20 token ca
 The ERC-20 token, implemented in Solidity, includes standard functionalities such as minting, burning, and transferring. The contract is named "MyToken" with the symbol "MTK" and is initialized with an initial supply of 1,000,000 tokens. The owner of the contract is granted the ability to mint new tokens, while any user can burn their own tokens or transfer them to others.
 
 # Getting Started
+
+Executing Program
+Deploying the Smart Contract
+
+Open the Remix IDE at https://remix.ethereum.org/.
+Create a new file or use the existing one.
+Copy and paste the contents of MyToken.sol into the file.
+Compile the smart contract.
+Deploy the smart contract using the Remix "Deploy & Run Transactions" tab.
+
+
+# Interacting with the Contract
+Once deployed, interact with the contract using the Remix interface.
+Call functions like mint, burn, and transfer to test various functionalities.
+# Help
+If you encounter any issues or have questions:
+
+Check the Remix documentation: Remix Documentation
+Open an issue in this GitHub repository.
+
+Authors
+Mohd Shahzil
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
