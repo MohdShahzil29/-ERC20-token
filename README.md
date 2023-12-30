@@ -9,14 +9,11 @@ The ERC-20 token, implemented in Solidity, includes standard functionalities suc
 
 # Getting Started
 
-Executing Program
-Deploying the Smart Contract
-
-Open the Remix IDE at https://remix.ethereum.org/.
-Create a new file or use the existing one.
-Copy and paste the contents of MyToken.sol into the file.
-Compile the smart contract.
-Deploy the smart contract using the Remix "Deploy & Run Transactions" tab.
+1. Open the Remix IDE at https://remix.ethereum.org/.
+2. Create a new file or use the existing one.
+3. Copy and paste the contents of MyToken.sol into the file.
+4. Compile the smart contract.
+5. Deploy the smart contract using the Remix "Deploy & Run Transactions" tab.
 
 
 # Interacting with the Contract
